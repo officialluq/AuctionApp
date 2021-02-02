@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\luqbrain\source\repos\AuctionApplication\AuctionApplication\Nowy folder\CMakeFiles\0fbe500cb23cff0bee6bc475e9c62763\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DDAFBD9C-915F-375A-9FF5-25DB86D2CD74}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

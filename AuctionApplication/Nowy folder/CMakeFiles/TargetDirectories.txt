@@ -1,0 +1,3 @@
+C:/Users/luqbrain/source/repos/AuctionApplication/AuctionApplication/Nowy folder/CMakeFiles/AuctionApplication.elf.dir
+C:/Users/luqbrain/source/repos/AuctionApplication/AuctionApplication/Nowy folder/CMakeFiles/ALL_BUILD.dir
+C:/Users/luqbrain/source/repos/AuctionApplication/AuctionApplication/Nowy folder/CMakeFiles/ZERO_CHECK.dir

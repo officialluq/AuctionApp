@@ -1,0 +1,3 @@
+C:/Users/luqbrain/source/repos/AuctionApplication/AuctionApplication/out/build/x64-Debug (domyślnie)/CMakeFiles/AuctionApplication.elf.dir
+C:/Users/luqbrain/source/repos/AuctionApplication/AuctionApplication/out/build/x64-Debug (domyślnie)/CMakeFiles/edit_cache.dir
+C:/Users/luqbrain/source/repos/AuctionApplication/AuctionApplication/out/build/x64-Debug (domyślnie)/CMakeFiles/rebuild_cache.dir
